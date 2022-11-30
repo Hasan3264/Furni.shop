@@ -1,0 +1,115 @@
+@import "../Variable/fontfamily";
+@import "../basic/common";
+@import "../mixinit/fontStyle";
+
+#product {
+    margin-top: 80px;
+
+    .product-header {
+        h2 {
+            @include fontstyle($notojp, 50px, 700, #244D4D);
+        }
+    }
+
+    .see-all {
+        margin-top: 30px;
+
+        a {
+            @include fontstyle($popins, 17px, 400, #244D4D);
+        }
+    }
+
+    .mixinpart {
+        margin-top: 70px;
+
+        .class-manu {
+            justify-content: center;
+
+            li {
+                button {
+                    @include fontstyle($monsfm, 17px, 400, #3D3D3F);
+                    text-transform: capitalize;
+                    padding: 0px 20px;
+                }
+
+            }
+        }
+
+        .class-manu .nav-link.active,
+        .class-manu .show>.nav-link {
+            color: #fff;
+            background: #244D4D;
+            width: 100%;
+            border-radius: 5;
+            -webkit-border-radius: 5;
+            -moz-border-radius: 5;
+            -ms-border-radius: 5;
+            -o-border-radius: 5;
+        }
+
+        .class-inner {
+            margin-top: 100px;
+
+            .card {
+                margin-bottom: 170px;
+                margin-right: 50px;
+                position: relative;
+                border: none;
+                background-color: rgba(63, 82, 79, 0.226);
+
+                i {
+                    position: absolute;
+                    top: -12px;
+                    right: 12px;
+                    font-size: 10px;
+                    width: 20px;
+                    height: 20px;
+                    line-height: 20px;
+                    text-align: center;
+                    background-color: burlywood;
+                    border-radius: 50%;
+                    -webkit-border-radius: 50%;
+                    color: #ffff;
+                }
+
+                .care-text {
+                 padding: 45px;
+                 width: 258px;
+                 height: 265px;
+                    h5 {
+                        @include fontstyle($popins, 19px, 400, #3D3D3F);
+                        text-transform: capitalize;
+                    }
+
+                    ul {
+                        margin-top: 15px;
+                         
+                        li {
+                            @include fontstyle($popins, 14px, 400, #3D3D3F);
+                        }
+
+                        li:first-child {
+                            margin-right: 30px;
+                        }
+                    }
+                }
+                    .c-h{
+                        bottom: -107% !important; 
+                    }
+                img {
+                    position: absolute;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    bottom: -95%;
+                }
+            }
+
+            ul {
+                ul-li {
+                    width: 30%;
+                    margin-right: 40px;
+                }
+            }
+        }
+    }
+}

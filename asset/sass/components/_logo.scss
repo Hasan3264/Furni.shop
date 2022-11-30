@@ -1,0 +1,15 @@
+@import "../Variable/fontfamily";
+@import "../basic/common";
+@import "../mixinit/fontStyle";
+
+#logo{
+    margin-top: 80px;
+    background-color: #F4F6F6;
+    padding: 47px 0px;
+    p{
+         @include fontstyle($monsfm, 20px, 500, #031745);
+    }
+    .logos{
+        margin-top: 45px;
+    }
+}

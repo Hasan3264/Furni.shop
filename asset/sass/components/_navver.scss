@@ -1,0 +1,73 @@
+@import "../Variable/fontfamily";
+@import "../basic/common";
+@import "../mixinit/fontStyle";
+
+.manu-fix {
+  margin-top: 0px !important;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  line-height:50px;
+  z-index: 999;
+  background: #fff;
+}
+
+
+#navber{
+    .navbar-nav{
+        line-height: 84px;
+            li{
+                margin-right: 74px;
+                a{
+                    @include fontstyle($monsfm, 16px, 400, #242424);
+                    display: inline-block;
+                     transition: all linear .6s;
+                -webkit-transition: all linear .6s;
+                -moz-transition: all linear .6s;
+                -ms-transition: all linear .6s;
+                -o-transition: all linear .6s;
+                position: relative;
+
+                &::after {
+                    position: absolute;
+                    content: " ";
+                    left: 0;
+                    bottom: 0;
+                    width: 100%;
+                    height: 3px;
+                    background: linear-gradient( to right, #242424 7%, rgba(8, 240, 166, 0.363) 100%);
+                    transform-origin: right center;
+                    transform: scale(0, 1);
+                    transition: transform 0.6s ease;
+                    -webkit-transition: transform 0.6s ease;
+                    -moz-transition: transform 0.6s ease;
+                    -ms-transition: transform 0.6s ease;
+                    -o-transition: transform 0.6s ease;
+                }
+
+                &:hover::after {
+                    transform-origin: left center;
+                    transform: scale(1, 1);
+                    -webkit-transform: scale(1, 1);
+                    -moz-transform: scale(1, 1);
+                    -ms-transform: scale(1, 1);
+                    -o-transform: scale(1, 1);
+                    transition: transform 0.6s ease;
+                    -webkit-transition: transform 0.6s ease;
+                    -moz-transition: transform 0.6s ease;
+                    -ms-transition: transform 0.6s ease;
+                    -o-transition: transform 0.6s ease;
+                }
+                } 
+
+            }
+            
+          
+    }
+    .m-last{
+                li:first-child{
+                    margin-right: 45px;
+                }
+            }
+}

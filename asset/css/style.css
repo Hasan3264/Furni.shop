@@ -1,0 +1,1102 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+.manu-fix {
+  margin-top: 0px !important;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  line-height: 50px;
+  z-index: 999;
+  background: #fff;
+}
+
+#navber .navbar-nav {
+  line-height: 84px;
+}
+#navber .navbar-nav li {
+  margin-right: 74px;
+}
+#navber .navbar-nav li a {
+  color: #242424;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  display: inline-block;
+  transition: all linear 0.6s;
+  -webkit-transition: all linear 0.6s;
+  -moz-transition: all linear 0.6s;
+  -ms-transition: all linear 0.6s;
+  -o-transition: all linear 0.6s;
+  position: relative;
+}
+#navber .navbar-nav li a::after {
+  position: absolute;
+  content: " ";
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(to right, #242424 7%, rgba(8, 240, 166, 0.363) 100%);
+  transform-origin: right center;
+  transform: scale(0, 1);
+  transition: transform 0.6s ease;
+  -webkit-transition: transform 0.6s ease;
+  -moz-transition: transform 0.6s ease;
+  -ms-transition: transform 0.6s ease;
+  -o-transition: transform 0.6s ease;
+}
+#navber .navbar-nav li a:hover::after {
+  transform-origin: left center;
+  transform: scale(1, 1);
+  -webkit-transform: scale(1, 1);
+  -moz-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  -o-transform: scale(1, 1);
+  transition: transform 0.6s ease;
+  -webkit-transition: transform 0.6s ease;
+  -moz-transition: transform 0.6s ease;
+  -ms-transition: transform 0.6s ease;
+  -o-transition: transform 0.6s ease;
+}
+#navber .m-last li:first-child {
+  margin-right: 45px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#banner .b-1 {
+  position: relative;
+}
+#banner .b-1 .arrow-down {
+  position: absolute;
+  right: -14px;
+  bottom: -10px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  background-color: rgb(216, 216, 216);
+}
+#banner .b-1 .slick-slider {
+  position: relative;
+}
+#banner .b-1 .slick-slider .pre-arrow {
+  position: absolute;
+  right: -50px;
+  top: 55%;
+  transform: translate(-50%);
+  color: #313131;
+  z-index: 999;
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  text-align: center;
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  -o-transform: translate(-50%);
+}
+#banner .b-1 .slick-slider .net-arrow {
+  position: absolute;
+  right: -40px;
+  top: 50%;
+  color: #313131;
+  z-index: 999;
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  text-align: center;
+}
+#banner .b-2 {
+  width: 570px;
+  height: 470px;
+  border-radius: 7px;
+  background: linear-gradient(to right, #fff 7%, rgba(206, 241, 230, 0.363) 100%);
+  position: absolute;
+  z-index: 99;
+  left: 102px;
+  top: 175px;
+}
+#banner .b-2 .img-d {
+  position: absolute;
+  left: 0px;
+  top: -42px;
+}
+#banner .b-2 h1 {
+  margin-top: 132px;
+  width: 372px;
+  color: #244D4D;
+  font-weight: 700;
+  font-size: 50px;
+  font-family: "Noto Serif JP", serif;
+  line-height: 72px;
+}
+#banner .b-2 p {
+  margin-top: 15px;
+  width: 326px;
+  color: #244D4D;
+  font-weight: 400;
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#logo {
+  margin-top: 80px;
+  background-color: #F4F6F6;
+  padding: 47px 0px;
+}
+#logo p {
+  color: #031745;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+#logo .logos {
+  margin-top: 45px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#h-deal {
+  padding: 145px 0;
+}
+#h-deal .deal1 h2 {
+  color: #031745;
+  font-weight: 800;
+  font-size: 39px;
+  font-family: "Noto Serif JP", serif;
+}
+#h-deal .deal1 p {
+  margin-top: 18px;
+  color: #0E0E13;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
+#h-deal .deal2 h5 {
+  margin-top: 28px;
+  color: #3D3D3F;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+#h-deal .deal2 p {
+  margin-top: 18px;
+  color: #0E0E13;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#about .about-header h2 {
+  color: #244D4D;
+  font-weight: 700;
+  font-size: 50px;
+  font-family: "Noto Serif JP", serif;
+  margin-bottom: 5px;
+}
+#about .about-header p {
+  color: #64717C;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+#about .about-right button {
+  margin-top: 50px;
+  color: #5F5F64;
+  font-weight: 400;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  border: none;
+  padding: 14px 34px;
+  background: #F4F6F6;
+  transition: all linear 0.3s;
+  -webkit-transition: all linear 0.3s;
+  -moz-transition: all linear 0.3s;
+  -ms-transition: all linear 0.3s;
+  -o-transition: all linear 0.3s;
+}
+#about .about-right button:hover {
+  box-shadow: 0px 40px 54px rgba(191, 240, 240, 0.6156862745);
+}
+#about .about-s-m {
+  margin-top: 120px;
+}
+#about .about-s-m .card {
+  width: 46%;
+  border: none;
+}
+#about .about-s-m .card h3 {
+  color: #244D4D;
+  font-weight: 500;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+}
+#about .about-s-m .card h5 {
+  margin-top: 20px;
+  color: #244D4D;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+}
+#about .about-s-m .card p {
+  margin-top: 15px;
+  color: #64717C;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
+#about .about-s-m .card h3, #about .about-s-m .card h5 {
+  margin-left: 20px;
+}
+#about .about-s-m .m-b {
+  margin-bottom: 60px;
+}
+#about .about-s-m .m-r {
+  margin-right: 40px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#product {
+  margin-top: 80px;
+}
+#product .product-header h2 {
+  color: #244D4D;
+  font-weight: 700;
+  font-size: 50px;
+  font-family: "Noto Serif JP", serif;
+}
+#product .see-all {
+  margin-top: 30px;
+}
+#product .see-all a {
+  color: #244D4D;
+  font-weight: 400;
+  font-size: 17px;
+  font-family: "Poppins", sans-serif;
+}
+#product .mixinpart {
+  margin-top: 70px;
+}
+#product .mixinpart .class-manu {
+  justify-content: center;
+}
+#product .mixinpart .class-manu li button {
+  color: #3D3D3F;
+  font-weight: 400;
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+  text-transform: capitalize;
+  padding: 0px 20px;
+}
+#product .mixinpart .class-manu .nav-link.active,
+#product .mixinpart .class-manu .show > .nav-link {
+  color: #fff;
+  background: #244D4D;
+  width: 100%;
+  border-radius: 5;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  -ms-border-radius: 5;
+  -o-border-radius: 5;
+}
+#product .mixinpart .class-inner {
+  margin-top: 100px;
+}
+#product .mixinpart .class-inner .card {
+  margin-bottom: 170px;
+  margin-right: 50px;
+  position: relative;
+  border: none;
+  background-color: rgba(63, 82, 79, 0.226);
+}
+#product .mixinpart .class-inner .card i {
+  position: absolute;
+  top: -12px;
+  right: 12px;
+  font-size: 10px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  color: white;
+}
+#product .mixinpart .class-inner .card .care-text {
+  padding: 45px;
+  width: 258px;
+  height: 265px;
+}
+#product .mixinpart .class-inner .card .care-text h5 {
+  color: #3D3D3F;
+  font-weight: 400;
+  font-size: 19px;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+}
+#product .mixinpart .class-inner .card .care-text ul {
+  margin-top: 15px;
+}
+#product .mixinpart .class-inner .card .care-text ul li {
+  color: #3D3D3F;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+}
+#product .mixinpart .class-inner .card .care-text ul li:first-child {
+  margin-right: 30px;
+}
+#product .mixinpart .class-inner .card .c-h {
+  bottom: -107% !important;
+}
+#product .mixinpart .class-inner .card img {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: -95%;
+}
+#product .mixinpart .class-inner ul ul-li {
+  width: 30%;
+  margin-right: 40px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#clint-review .clint-r {
+  position: relative;
+  padding: 100px 150px;
+  background-color: #F4F6F6;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+#clint-review .clint-r .img-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#clint-review .clint-r .img-icon {
+  position: absolute;
+  top: 150px !important;
+  right: 174px !important;
+}
+#clint-review .clint-r .img-part {
+  position: relative;
+}
+#clint-review .clint-r .img-part .i-m-r {
+  position: absolute;
+  bottom: 27px !important;
+  left: -100px !important;
+}
+#clint-review .clint-r .img-part .i-m-l {
+  position: absolute;
+  top: 37px !important;
+  left: -62px !important;
+}
+#clint-review .clint-r .text-part {
+  margin-top: 30px;
+}
+#clint-review .clint-r .text-part img {
+  margin-bottom: 38px;
+}
+#clint-review .clint-r .text-part h5 {
+  color: rgba(36, 77, 77, 0.4862745098);
+  font-weight: 400;
+  font-size: 21px;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  margin-bottom: 40px;
+}
+#clint-review .clint-r .text-part h6 {
+  color: #244D4D;
+  font-weight: 400;
+  font-size: 21px;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+}
+#clint-review .clint-r .text-part p {
+  color: #647383;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+}
+#clint-review .clint-r .slick-slider {
+  position: relative;
+}
+#clint-review .clint-r .slick-slider .pre-arrow {
+  position: absolute;
+  left: 45%;
+  bottom: -70px;
+  color: #313131;
+  z-index: 999;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  text-align: center;
+}
+#clint-review .clint-r .slick-slider .net-arrow {
+  position: absolute;
+  left: 50%;
+  bottom: -70px;
+  color: #313131;
+  z-index: 999;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  text-align: center;
+}
+#clint-review .slider-part {
+  margin-top: 100px;
+}
+#clint-review .clint-review-h h2 {
+  color: #244D4D;
+  font-weight: 700;
+  font-size: 50px;
+  font-family: "Noto Serif JP", serif;
+}
+#clint-review .clint-review-h p {
+  margin-top: 25px;
+  color: #3A4F65;
+  font-weight: 400;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* ======================================  common css end  ============================================ */
+/* ======================================   css  ============================================ */
+/* ======================================   css  ============================================ */
+/* footer part end */
+.back-to-top {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #fff;
+  background: rgba(8, 240, 166, 0.986);
+  position: fixed;
+  right: 30px;
+  bottom: 40px;
+  z-index: 999;
+  border-radius: 20px 0px;
+  -webkit-border-radius: 20px 0px;
+  -moz-border-radius: 20px 0px;
+  -ms-border-radius: 20px 0px;
+  -o-border-radius: 20px 0px;
+}
+
+#footer {
+  margin-top: 80px;
+  padding-top: 115px;
+  padding-bottom: 100px;
+  background-color: #244D4D;
+}
+#footer .footer-head {
+  padding-bottom: 80px;
+  margin-bottom: 80px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2039215686);
+}
+#footer .footer-head h5 {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 45px;
+  font-family: "Poppins", sans-serif;
+  line-height: 60px;
+  text-transform: capitalize;
+}
+#footer .footer-head button {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 19px;
+  font-family: "Poppins", sans-serif;
+  background-color: #3A5F5F;
+  line-height: 50px;
+  border: none;
+  width: 200px;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  transition: all linear 0.3s;
+  -webkit-transition: all linear 0.3s;
+  -moz-transition: all linear 0.3s;
+  -ms-transition: all linear 0.3s;
+  -o-transition: all linear 0.3s;
+  margin-top: 40px;
+  margin-right: 20px;
+}
+#footer .footer-head button:hover {
+  background-color: #ffffff;
+  color: #244D4D;
+}
+#footer .f-f p {
+  margin-top: 15px;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+#footer .f-f ul {
+  margin-top: 25px;
+}
+#footer .f-f ul li a {
+  color: #ffffff;
+  margin-right: 20px;
+}
+#footer .f-f ul li:hover a {
+  color: #3A5F5F;
+}
+#footer .f-r h5 {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 20px;
+}
+#footer .f-r ul li {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=style.css.map */

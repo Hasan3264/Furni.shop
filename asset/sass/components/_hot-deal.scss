@@ -1,0 +1,27 @@
+@import "../Variable/fontfamily";
+@import "../basic/common";
+@import "../mixinit/fontStyle";
+
+#h-deal{
+    padding:145px 0;
+    .deal1{
+        h2{
+             @include fontstyle($notojp,39px, 800, #031745);
+        }
+        p{
+            margin-top: 18px;
+            @include fontstyle($monsfm,16px, 400, #0E0E13);
+        }
+    } 
+    .deal2{
+        h5{
+            margin-top: 28px;
+            @include fontstyle($popins,20px, 500, #3D3D3F);
+        }
+        p{
+             margin-top: 18px;
+            @include fontstyle($popins,16px, 400, #0E0E13);
+        }
+
+    } 
+}

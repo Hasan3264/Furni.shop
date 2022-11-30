@@ -1,0 +1,336 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  #product .mixinpart .class-inner .card .care-text {
+  width: 246px;
+}
+#product .mixinpart .class-inner .card{
+  margin-right: 12px;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #navber .navbar-nav li {
+  margin-right: 20px;
+}
+#banner .b-2 {
+  height: 337px;
+}
+#banner .b-2 {
+  
+  top: 150px;
+}
+#banner .b-2 h1 {
+  margin-top: 0px;
+}
+#banner .b-2 .img-d {
+  left: -83px;
+  top: -61px;
+}
+#about .butt{
+ text-align: center !important;
+}
+#about .about-right{
+ text-align: center !important;
+}
+#product .mixinpart .class-inner .card .care-text {
+  width: 318px;
+}
+#product .mixinpart .class-inner .card {
+  margin-right: 30px;
+}
+#clint-review .clint-review-h img{
+  display: none;
+}
+#clint-review .clint-r .text-part{
+  padding: 0px 50px;
+}
+#clint-review .clint-r .img-part .i-m-l, #clint-review .clint-r .img-part .i-m-r{
+  display: none;
+}
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+ #navber .navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+  }
+
+  #navber {
+    background: #C9E7FF;
+    text-align: center;
+    z-index: 9999;
+  }
+
+  #navber .navbar-nav li {
+    margin-right: 0;
+  }
+
+  #navber .navbar-nav {
+    line-height: 40px;
+  }
+
+  #navber .m-last li:first-child {
+    display: none;
+  }
+ 
+  #navber .m-last li {
+    margin-left: 50% !important;
+  }
+
+  #banner .b-2 .img-d {
+    display: none !important;
+  }
+
+  #banner .b-2 {
+    left: 0;
+    top: 30px;
+    width: 100%;
+    height: 100%;
+    padding: 0px 20px;
+    background: none;
+  }
+  #banner .b-slm{
+    background-color: rgba(240, 248, 255, 0.5);
+  }
+
+  #banner .b-1 .arrow-down {
+    display: none !important;
+  }
+
+  #banner .b-2 h1 {
+    margin-top: 20px;
+    font-size: 40px;
+  }
+
+  #logo {
+    margin-top: 140px;
+  }
+
+
+#h-deal {
+  padding: 60px 0;
+  text-align: center;
+}
+#h-deal .deal1{
+  text-align: center;
+}
+
+#h-deal .deal2 {
+  margin-top: 20px;
+}
+
+#about .about-header {
+  text-align: center;
+}
+
+#about .about-s-m {
+  text-align: center;
+}
+
+#about .about-s-m .m-r {
+  margin-right: 15px;
+}
+
+#about .about-s-m {
+  margin-top: 80px;
+}
+
+#about .about-right .butt {
+  text-align: center !important;
+}
+
+#about .about-right .a-photo {
+  text-align: center !important;
+  width: 100%;
+}
+
+#about .about-right .a-photo img {
+  margin-bottom: 20px;
+}
+
+#product .product-header h2 {
+  font-size: 35px;
+}
+#product .mixinpart .class-inner .card{
+  margin-right: 20px !important;
+}
+
+#product .mixinpart .class-inner .card .care-text {
+ width: 238px;
+  height: 265px;
+}
+#clint-review .clint-r .clint-review-h img {
+  display: none !important;
+}
+#clint-review .clint-r{
+  padding: 50px 20px;
+}
+#clint-review .clint-r .slide .text-part{
+  text-align: center;
+}
+#clint-review .clint-r .slide .text-part img{
+  padding-left: 80px;
+}
+#clint-review .clint-r .text-part h5 {
+  font-size: 19px;
+  padding: 0px 10px;
+}
+#clint-review .clint-r .img-part .i-m-l, #clint-review .clint-r .img-part .i-m-r{
+  display: none!important;
+}
+#clint-review .clint-r .img-part .main-img{
+  padding-right: 18px;
+}
+#footer{
+  text-align: center;
+}
+#footer .f-f ul{
+  justify-content: center;
+}
+#footer .f-r h5{
+  margin-top: 30px;
+}
+#footer .footer-head h5 {
+  font-size: 38px;
+  line-height: 54px;
+}
+
+}
+
+@media (max-width: 575.98px) {
+  #navber .navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+  }
+
+  #navber {
+    background: #C9E7FF;
+    text-align: center;
+    z-index: 9999;
+  }
+
+  #navber .navbar-nav li {
+    margin-right: 0;
+  }
+
+  #navber .navbar-nav {
+    line-height: 40px;
+  }
+
+  #navber .m-last li:first-child {
+    display: none;
+  }
+
+  #navber .m-last li {
+    margin-left: 50% !important;
+  }
+
+  #banner .b-2 .img-d {
+    display: none !important;
+  }
+
+  #banner .b-2 {
+    background: none;
+    left: 0;
+    top: 30px;
+  }
+
+  #banner .b-1 .arrow-down {
+    display: none !important;
+  }
+
+  #banner .b-2 h1 {
+    margin-top: 20px;
+    width: 100%;
+    font-size: 40px;
+  }
+
+  #logo {
+    margin-top: 140px;
+  }
+
+
+#h-deal {
+  padding: 60px 0;
+  text-align: center;
+}
+
+#h-deal .deal2 {
+  margin-top: 20px;
+}
+
+#about .about-header {
+  text-align: center;
+}
+
+#about .about-s-m {
+  text-align: center;
+}
+
+#about .about-s-m .m-r {
+  margin-right: 15px;
+}
+
+#about .about-s-m {
+  margin-top: 80px;
+}
+
+#about .about-right .butt {
+  text-align: center !important;
+}
+
+#about .about-right .a-photo {
+  text-align: center !important;
+  width: 100%;
+}
+
+#about .about-right .a-photo img {
+  margin-bottom: 20px;
+}
+
+#product .product-header h2 {
+  font-size: 35px;
+}
+#product .mixinpart .class-inner .card{
+  margin-right: 0;
+}
+
+#product .mixinpart .class-inner .card .care-text {
+  width: 315px;
+  height: 265px;
+}
+#clint-review .clint-r .clint-review-h img {
+  display: none !important;
+}
+#clint-review .clint-r{
+  padding: 50px 20px;
+}
+#clint-review .clint-r .slide .text-part{
+  text-align: center;
+}
+#clint-review .clint-r .slide .text-part img{
+  padding-left: 80px;
+}
+#clint-review .clint-r .text-part h5 {
+  font-size: 19px;
+  padding: 0px 10px;
+}
+#clint-review .clint-r .img-part .i-m-l, #clint-review .clint-r .img-part .i-m-r{
+  display: none!important;
+}
+#clint-review .clint-r .img-part .main-img{
+  padding-right: 18px;
+}
+#footer{
+  text-align: center;
+}
+#footer .f-f ul{
+  justify-content: center;
+}
+#footer .f-r h5{
+  margin-top: 30px;
+}
+#footer .footer-head h5 {
+  font-size: 38px;
+  line-height: 54px;
+}
+
+}
