@@ -198,6 +198,19 @@ img {
   -ms-transition: transform 0.6s ease;
   -o-transition: transform 0.6s ease;
 }
+#navber .navbar-nav li a.active::after {
+  transform-origin: left center;
+  transform: scale(1, 1);
+  -webkit-transform: scale(1, 1);
+  -moz-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  -o-transform: scale(1, 1);
+  transition: transform 0.6s ease;
+  -webkit-transition: transform 0.6s ease;
+  -moz-transition: transform 0.6s ease;
+  -ms-transition: transform 0.6s ease;
+  -o-transition: transform 0.6s ease;
+}
 #navber .m-last li:first-child {
   margin-right: 45px;
 }
@@ -259,10 +272,10 @@ img {
   -o-border-radius: 20px 0px;
 }
 
-#banner .b-1 {
+#banner .main {
   position: relative;
 }
-#banner .b-1 .arrow-down {
+#banner .main .b-1 .arrow-down {
   position: absolute;
   right: -14px;
   bottom: -10px;
@@ -272,10 +285,17 @@ img {
   text-align: center;
   background-color: rgb(216, 216, 216);
 }
-#banner .b-1 .slick-slider {
+#banner .main .b-1 .slider {
+  -webkit-transition: opacity 2000s ease-in-out;
+  -moz-transition: opacity 2000s ease-in-out;
+  -ms-transition: opacity 2000s ease-in-out;
+  -o-transition: opacity 2000s ease-in-out;
+  opacity: 1;
+}
+#banner .main .b-1 .slick-slider {
   position: relative;
 }
-#banner .b-1 .slick-slider .pre-arrow {
+#banner .main .b-1 .slick-slider .pre-arrow {
   position: absolute;
   right: -50px;
   top: 55%;
@@ -297,7 +317,7 @@ img {
   -ms-transform: translate(-50%);
   -o-transform: translate(-50%);
 }
-#banner .b-1 .slick-slider .net-arrow {
+#banner .main .b-1 .slick-slider .net-arrow {
   position: absolute;
   right: -40px;
   top: 50%;
@@ -314,22 +334,22 @@ img {
   -o-border-radius: 50%;
   text-align: center;
 }
-#banner .b-2 {
+#banner .main .b-2 {
   width: 570px;
   height: 470px;
   border-radius: 7px;
   background: linear-gradient(to right, #fff 7%, rgba(206, 241, 230, 0.363) 100%);
   position: absolute;
   z-index: 99;
-  left: 102px;
-  top: 175px;
+  left: 0px;
+  top: 60px;
 }
-#banner .b-2 .img-d {
+#banner .main .b-2 .img-d {
   position: absolute;
   left: 0px;
   top: -42px;
 }
-#banner .b-2 h1 {
+#banner .main .b-2 h1 {
   margin-top: 132px;
   width: 372px;
   color: #244D4D;
@@ -338,7 +358,7 @@ img {
   font-family: "Noto Serif JP", serif;
   line-height: 72px;
 }
-#banner .b-2 p {
+#banner .main .b-2 p {
   margin-top: 15px;
   width: 326px;
   color: #244D4D;

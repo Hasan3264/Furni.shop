@@ -24,7 +24,7 @@ $(function(){
 
   $('.slider').slick({
         slidesToShow: 1,
-        slidesToScroll: 1,
+      slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 1000,
       arrows: true,
@@ -51,8 +51,9 @@ $(function(){
             {
                 breakpoint: 576,
                 settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
+                    fade: true,
+                    speed: 2000,
+                    cssEase: 'linear',
                     arrows: false,
                 }
             },
@@ -129,7 +130,7 @@ $(function(){
       $('.slide').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 1000,
          arrows: true,
         nextArrow: '<i id="next" onclick="next()" class="fa-solid fa-arrow-right-long net-arrow"></i>',
